@@ -6,9 +6,6 @@
 Link to game:
 https://liluo.io/avanti/asteroids-template?leaderboardId=fcd1fcfa-d080-4842-9959-1ff79aee5a71
 
-
-
-SS of Game:
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/120110376/214363694-14b2b8d0-338d-416b-affc-5b3df67ea111.png">
 
 
