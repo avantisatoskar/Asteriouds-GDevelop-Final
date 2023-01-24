@@ -11,5 +11,6 @@ https://liluo.io/avanti/asteroids-template?leaderboardId=fcd1fcfa-d080-4842-9959
 
 
 QR Link To the Game:
+
 <img width="262" alt="image" src="https://user-images.githubusercontent.com/120110376/214364953-ae0dbd8c-08f1-4fff-9c51-d077343d31ad.png">
 
